@@ -1,7 +1,7 @@
-# Deep-kearning-with-tensorflow  ![lockup](https://user-images.githubusercontent.com/64775171/155834343-668d4893-037f-4cf7-8f27-f364d6c48845.svg)
+# Deep-Learning-With-Tensorflow  ![lockup](https://user-images.githubusercontent.com/64775171/155834343-668d4893-037f-4cf7-8f27-f364d6c48845.svg)
 
 
-training mnist data  (The MNIST database of handwritten digits, available from this page, has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.)
+training mnist data  (The MNIST database of handwritten digits and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.)
 
 This model is basically for predicting hand written number of image....
 
