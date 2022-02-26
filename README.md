@@ -11,7 +11,8 @@ print(np.argmax(new_model.predict(x_train)[0]))
 
 output is digit 5
 
-plt.imshow(x_train[0])
+plt.imshow(x_train[0]) 
+
 plt.show()
 
 ![download](https://user-images.githubusercontent.com/64775171/155834330-3ef8f2e7-54cd-4e22-8065-218b1bf2b64c.png)
